@@ -22,7 +22,7 @@ DABEANS-LOADER helps users launch and manage game mods from a single application
 
 ## Disclaimer
 
-Only use mods in accordance with the game's terms of service and community guidelines. Users are responsible for how they use third-party modifications.
+67
 
 ## Download
 
