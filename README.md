@@ -2,17 +2,6 @@
 
 DABEANS-LOADER is a lightweight Windows launcher designed to help users load and manage mods for supported games from a simple interface.
 
-## Features
-
-* Easy mod launching and management
-* Built-in update checker
-* Custom mod directory support
-* Running mod manager
-* AppData configuration storage
-* Process monitoring
-* Automatic cleanup tools
-* Simple and modern user interface
-
 ## What It Does
 
 DABEANS-LOADER helps users launch and manage game mods from a single application. Instead of manually starting multiple files, users can organize and run their mods through one launcher.
